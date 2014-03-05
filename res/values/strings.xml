@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraPreviewExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tittle">Switch Camera</string>
+    <string name="btnClick">Click</string>
+    <string name="btnClick_hint">click heare to save status</string>
+
+</resources>
